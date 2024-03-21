@@ -2,7 +2,7 @@ name: "my joke action"
 description: "use an external API to retrive and display a joke"
 
 outputs:
-  joke:
+  joke-output:
     description: The resultin joke from the icanhazdadjokes API
 
 runs:
